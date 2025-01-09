@@ -1,0 +1,4 @@
+[submodule "sidorocs_blog/public"]
+	path = sidorocs_blog/public
+	url = git@github.com:MathieuDavidd/blog.sidorocs.github.io.git
+	branch = main

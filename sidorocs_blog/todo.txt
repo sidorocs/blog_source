@@ -1,0 +1,7 @@
+- changer le logo de la page  -> ok 
+- ajouter les cheat-sheet (réflechir à comment les cacher)
+- ajouter un intégration root me (les stats ou alors juste le profile) -------------> changer le display (mettre en blanc)
+- voir pour ajouter une animationen background -----------> ok 
+- voir pour changer le styles des listes (mettre une sorte de box)
+
+
